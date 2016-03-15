@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/infiniteloopsco/guartz/utils"
+	"github.com/hackersguildco/guartz/utils"
 
 	"gopkg.in/robfig/cron.v2"
 

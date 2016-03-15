@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/infiniteloopsco/guartz/utils"
+	"github.com/hackersguildco/guartz/utils"
 
 	"github.com/jinzhu/gorm"
 	"gopkg.in/robfig/cron.v2"

@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"os"
 
-	"github.com/infiniteloopsco/guartz/utils"
+	"github.com/hackersguildco/guartz/utils"
 
 	"github.com/jinzhu/gorm"
 )

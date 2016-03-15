@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/infiniteloopsco/guartz/utils"
+	"github.com/hackersguildco/guartz/utils"
 
-	"github.com/infiniteloopsco/guartz/models"
+	"github.com/hackersguildco/guartz/models"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

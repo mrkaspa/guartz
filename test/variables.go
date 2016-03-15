@@ -1,6 +1,6 @@
 package test
 
-import "github.com/infiniteloopsco/guartz/models"
+import "github.com/hackersguildco/guartz/models"
 
 var (
 	task      models.Task

@@ -1,6 +1,6 @@
 {
-	"ImportPath": "github.com/infiniteloopsco/guartz",
-	"GoVersion": "go1.4.2",
+	"ImportPath": "github.com/hackersguildco/guartz",
+	"GoVersion": "go1.6",
 	"Deps": [
 		{
 			"ImportPath": "github.com/Sirupsen/logrus",
@@ -13,13 +13,23 @@
 			"Rev": "fd5d4294a5d5223d55fc76d7840f4b0ad91647bb"
 		},
 		{
+			"ImportPath": "github.com/gin-gonic/gin/binding",
+			"Comment": "v1.0rc1-136-gfd5d429",
+			"Rev": "fd5d4294a5d5223d55fc76d7840f4b0ad91647bb"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/render",
+			"Comment": "v1.0rc1-136-gfd5d429",
+			"Rev": "fd5d4294a5d5223d55fc76d7840f4b0ad91647bb"
+		},
+		{
 			"ImportPath": "github.com/go-sql-driver/mysql",
 			"Comment": "v1.2-112-gfb72997",
 			"Rev": "fb7299726d2e68745a8805b14f2ff44b5c2cfa84"
 		},
 		{
 			"ImportPath": "github.com/jinzhu/gorm",
-			"Rev": "dd0d4d931f0d6b52e3c8df75496b0a1aaa5667e6"
+			"Rev": "447885d98f9d07a138733a0e65428dd2de1ed60d"
 		},
 		{
 			"ImportPath": "github.com/joho/godotenv",
@@ -28,8 +38,8 @@
 		},
 		{
 			"ImportPath": "github.com/lib/pq/hstore",
-			"Comment": "go1.0-cutoff-59-gb269bd0",
-			"Rev": "b269bd035a727d6c1081f76e7a239a1b00674c40"
+			"Comment": "go1.0-cutoff-58-g0dad96c",
+			"Rev": "0dad96c0b94f8dee039aa40467f767467392a0af"
 		},
 		{
 			"ImportPath": "github.com/manucorporat/sse",
@@ -40,8 +50,12 @@
 			"Rev": "40e4aedc8fabf8c23e040057540867186712faa5"
 		},
 		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "56b76bdf51f7708750eac80fa38b952bb9f32639"
+		},
+		{
 			"ImportPath": "github.com/mrkaspa/go-helpers",
-			"Rev": "ab24335dd59704fc591f042ef8d2435a30261b45"
+			"Rev": "9f0d6c3f6c256b437f04416d61696ac7030cdae5"
 		},
 		{
 			"ImportPath": "github.com/qor/inflection",
@@ -57,14 +71,18 @@
 			"Rev": "d9558e5c97f85372afee28cf2b6059d7d3818919"
 		},
 		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "7a56174f0086b32866ebd746a794417edbc678a1"
+		},
+		{
 			"ImportPath": "gopkg.in/bluesuncorp/validator.v5",
 			"Comment": "v5.10.3",
 			"Rev": "77108103e5fd435ff31967e1a011fda801391c85"
 		},
 		{
 			"ImportPath": "gopkg.in/bluesuncorp/validator.v6",
-			"Comment": "v6.5",
-			"Rev": "c62ee7ccdf50d1660d426abc375602f769adca2f"
+			"Comment": "v6.8",
+			"Rev": "15e8444e515459e82ef3c33c8cd2dc68b2031e5b"
 		},
 		{
 			"ImportPath": "gopkg.in/robfig/cron.v2",
