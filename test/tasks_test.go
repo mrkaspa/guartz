@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/hackersguildco/guartz/utils"
+	"github.com/mrkaspa/guartz/utils"
 
-	"github.com/hackersguildco/guartz/models"
+	"github.com/mrkaspa/guartz/models"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

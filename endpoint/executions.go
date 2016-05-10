@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hackersguildco/guartz/models"
+	"github.com/mrkaspa/guartz/models"
 	"github.com/jinzhu/gorm"
 )
 

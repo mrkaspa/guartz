@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/hackersguildco/guartz/utils"
+	"github.com/mrkaspa/guartz/utils"
 )
 
 //ExecutionPageSize defaults

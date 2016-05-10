@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/hackersguildco/guartz",
+	"ImportPath": "github.com/mrkaspa/guartz",
 	"GoVersion": "go1.6",
 	"Deps": [
 		{

@@ -8,9 +8,9 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"github.com/hackersguildco/guartz/endpoint"
-	"github.com/hackersguildco/guartz/models"
-	"github.com/hackersguildco/guartz/utils"
+	"github.com/mrkaspa/guartz/endpoint"
+	"github.com/mrkaspa/guartz/models"
+	"github.com/mrkaspa/guartz/utils"
 
 	_ "github.com/go-sql-driver/mysql"
 	. "github.com/onsi/ginkgo"

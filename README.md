@@ -5,7 +5,7 @@ It's a simple job scheduler with HTTP interface and MySQL as Database.
 
 You can install this server with this command:
 ```
-go get github.com/hackersguildco/guartz
+go get github.com/mrkaspa/guartz
 ```
 Browse to the guartz directory and install the dependencies:
 

@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/hackersguildco/guartz/utils"
+	"github.com/mrkaspa/guartz/utils"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hackersguildco/guartz/endpoint"
-	"github.com/hackersguildco/guartz/models"
+	"github.com/mrkaspa/guartz/endpoint"
+	"github.com/mrkaspa/guartz/models"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/joho/godotenv"

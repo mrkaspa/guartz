@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/hackersguildco/guartz/models"
+	"github.com/mrkaspa/guartz/models"
 	"github.com/jinzhu/gorm"
 )
 
